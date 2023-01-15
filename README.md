@@ -1,2 +1,1 @@
-# PrepCourse Clone
-es una prueba modulo 2
+creando un repositorio y clonandolo desde github al escritorio
